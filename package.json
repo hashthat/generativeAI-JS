@@ -1,0 +1,28 @@
+{
+  "name": "generativeai-js",
+  "version": "1.0.0",
+  "description": "This is a creative document. I am experimenting with v0, an AI development platform for GUI's and creating a babylonjs application for VR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashthat/generativeAI-JS.git"
+  },
+  "keywords": [
+    "Creative",
+    "AI"
+  ],
+  "author": "SamAlberts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hashthat/generativeAI-JS/issues"
+  },
+  "homepage": "https://github.com/hashthat/generativeAI-JS#readme",
+  "dependencies": {
+    "babylonjs": "^7.49.0",
+    "babylonjs-loaders": "^7.49.0",
+    "babylonjs-materials": "^7.49.0"
+  }
+}
